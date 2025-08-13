@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Logging;
 using UnecontScraping.Domain;
+using System.Linq; // Adicionado para IEnumarable
 
 namespace UnecontScraping.Application
 {
@@ -30,20 +31,37 @@ namespace UnecontScraping.Application
 
                 var allBooks = await _scrapingService.ScrapeBooksAsync(config);
 
-                var filteredBooks = allBooks
-                    .Where(b => b.Price >= config.PriceFilter.MinPrice && b.Price <= config.PriceFilter.MaxPrice)
-                    .Where(b => b.Rating == config.RatingFilter)
-                    .ToList();
+                var filteredBooks = allBooks.AsEnumerable();
 
-                _logger.LogInformation("Filtros aplicados. {Count} livros encontrados.", filteredBooks.Count);
+                // Aplica a filtragem condicional
+                if (config.PriceFilter.MinPrice > 0)
+                {
+                    _logger.LogInformation($"Aplicando filtro de preço mínimo: {config.PriceFilter.MinPrice}");
+                    filteredBooks = filteredBooks.Where(b => b.Price >= config.PriceFilter.MinPrice);
+                }
+                
+                if (config.PriceFilter.MaxPrice < decimal.MaxValue)
+                {
+                    _logger.LogInformation($"Aplicando filtro de preço máximo: {config.PriceFilter.MaxPrice}");
+                    filteredBooks = filteredBooks.Where(b => b.Price <= config.PriceFilter.MaxPrice);
+                }
 
-                await _exportService.ExportToJsonAsync(filteredBooks, "books.json");
+                if (config.RatingFilter > 0)
+                {
+                    _logger.LogInformation($"Aplicando filtro de rating: {config.RatingFilter} estrelas");
+                    filteredBooks = filteredBooks.Where(b => b.Rating == config.RatingFilter);
+                }
+
+                var finalBooks = filteredBooks.ToList();
+                _logger.LogInformation($"Filtros aplicados. {finalBooks.Count} livros encontrados.");
+
+                await _exportService.ExportToJsonAsync(finalBooks, "books.json");
                 _logger.LogInformation("Arquivo books.json gerado com sucesso.");
 
-                await _exportService.ExportToXmlAsync(filteredBooks, "books.xml");
+                await _exportService.ExportToXmlAsync(finalBooks, "books.xml");
                 _logger.LogInformation("Arquivo books.xml gerado com sucesso.");
 
-                await _apiService.SendBooksAsync(filteredBooks);
+                await _apiService.SendBooksAsync(finalBooks);
 
                 _logger.LogInformation("Processo finalizado com sucesso.");
             }

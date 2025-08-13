@@ -2,9 +2,10 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using System;
 using UnecontScraping.Application;
 using UnecontScraping.Domain;
-using UnecontScraping.Infrastructure; 
+using UnecontScraping.Infrastructure;
 using UnecontScraping.Presentation;
 
 namespace UnecontScraping.Presentation
@@ -18,14 +19,16 @@ namespace UnecontScraping.Presentation
 
             var serviceProvider = services.BuildServiceProvider();
             var app = serviceProvider.GetRequiredService<ScrapingApplication>();
-            var config = serviceProvider.GetRequiredService<ScrapingConfig>();
+            
+            var defaultConfig = serviceProvider.GetRequiredService<ScrapingConfig>();
 
-            await app.RunAsync(config);
+            var userConfig = GetUserConfiguration(defaultConfig);
+
+            await app.RunAsync(userConfig);
         }
 
         private static void ConfigureServices(IServiceCollection services)
         {
-            // Configuração
             var configuration = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .Build();
@@ -33,19 +36,53 @@ namespace UnecontScraping.Presentation
             services.Configure<ScrapingConfig>(configuration.GetSection("ScrapingConfig"));
             services.AddSingleton(provider => provider.GetRequiredService<IOptions<ScrapingConfig>>().Value);
 
-            // Logging
             services.AddLogging(builder =>
             {
                 builder.AddConsole();
                 builder.SetMinimumLevel(LogLevel.Information);
             });
 
-            // Injeção de Dependência dos serviços e implementações
             services.AddSingleton<ICategoryService, CategoryService>();
             services.AddSingleton<IScrapingService, ScrapingService>();
             services.AddSingleton<IExportService, ExportService>();
             services.AddHttpClient<IApiService, ApiService>();
             services.AddSingleton<ScrapingApplication>();
+        }
+
+        private static ScrapingConfig GetUserConfiguration(ScrapingConfig defaultConfig)
+        {
+            Console.WriteLine("--- Configuração da Busca ---");
+            
+            Console.WriteLine($"Categorias (padrão: {string.Join(", ", defaultConfig.Categories)}), separe por vírgulas: ");
+            var categoriesInput = Console.ReadLine();
+            var categories = string.IsNullOrEmpty(categoriesInput)
+                ? defaultConfig.Categories
+                : categoriesInput.Split(',').Select(c => c.Trim()).ToArray();
+
+            Console.WriteLine($"Preço Mínimo (padrão: {defaultConfig.PriceFilter.MinPrice}), deixe em branco para não filtrar: ");
+            var minPriceInput = Console.ReadLine();
+            decimal.TryParse(minPriceInput, out var minPrice);
+            
+            Console.WriteLine($"Preço Máximo (padrão: {defaultConfig.PriceFilter.MaxPrice}), deixe em branco para não filtrar: ");
+            var maxPriceInput = Console.ReadLine();
+            decimal.TryParse(maxPriceInput, out var maxPrice);
+
+            Console.WriteLine($"Número de Estrelas (1-5, padrão: {defaultConfig.RatingFilter}), deixe em branco para não filtrar: ");
+            var ratingInput = Console.ReadLine();
+            int.TryParse(ratingInput, out var rating);
+            
+            Console.WriteLine("-----------------------------");
+
+            return new ScrapingConfig
+            {
+                Categories = categories,
+                PriceFilter = new PriceFilter
+                {
+                    MinPrice = string.IsNullOrEmpty(minPriceInput) ? 0 : minPrice,
+                    MaxPrice = string.IsNullOrEmpty(maxPriceInput) ? decimal.MaxValue : maxPrice
+                },
+                RatingFilter = string.IsNullOrEmpty(ratingInput) ? 0 : rating
+            };
         }
     }
 }

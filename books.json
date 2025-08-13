@@ -5,5 +5,1174 @@
     "Rating": 5,
     "Category": "nonfiction",
     "Url": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+  },
+  {
+    "Title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "Price": 31.05,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html"
+  },
+  {
+    "Title": "Reasons to Stay Alive",
+    "Price": 26.41,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html"
+  },
+  {
+    "Title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+    "Price": 23.11,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html"
+  },
+  {
+    "Title": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails \u0026amp; Other Wonders of the Urban Wilderness",
+    "Price": 44.18,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html"
+  },
+  {
+    "Title": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+    "Price": 31.12,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html"
+  },
+  {
+    "Title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "Price": 16.77,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html"
+  },
+  {
+    "Title": "The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+    "Price": 37.13,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html"
+  },
+  {
+    "Title": "The Electric Pencil: Drawings from Inside State Hospital No. 3",
+    "Price": 56.06,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html"
+  },
+  {
+    "Title": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+    "Price": 41.83,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html"
+  },
+  {
+    "Title": "Reskilling America: Learning to Labor in the Twenty-First Century",
+    "Price": 19.83,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html"
+  },
+  {
+    "Title": "In the Country We Love: My Family Divided",
+    "Price": 22.00,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html"
+  },
+  {
+    "Title": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+    "Price": 54.35,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html"
+  },
+  {
+    "Title": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+    "Price": 29.14,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html"
+  },
+  {
+    "Title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "Price": 30.81,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html"
+  },
+  {
+    "Title": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "Price": 43.54,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html"
+  },
+  {
+    "Title": "The Omnivore\u0026#39;s Dilemma: A Natural History of Four Meals",
+    "Price": 38.21,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html"
+  },
+  {
+    "Title": "The Genius of Birds",
+    "Price": 17.24,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html"
+  },
+  {
+    "Title": "The Artist\u0026#39;s Way: A Spiritual Path to Higher Creativity",
+    "Price": 38.49,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html"
+  },
+  {
+    "Title": "So You\u0026#39;ve Been Publicly Shamed",
+    "Price": 12.23,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html"
+  },
+  {
+    "Title": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+    "Price": 19.43,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html"
+  },
+  {
+    "Title": "Big Magic: Creative Living Beyond Fear",
+    "Price": 30.80,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/big-magic-creative-living-beyond-fear_796/index.html"
+  },
+  {
+    "Title": "Becoming Wise: An Inquiry into the Mystery and Art of Living",
+    "Price": 27.43,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html"
+  },
+  {
+    "Title": "Agnostic: A Spirited Manifesto",
+    "Price": 12.51,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/agnostic-a-spirited-manifesto_786/index.html"
+  },
+  {
+    "Title": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+    "Price": 38.20,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html"
+  },
+  {
+    "Title": "What\u0026#39;s It Like in Space?: Stories from Astronauts Who\u0026#39;ve Been There",
+    "Price": 19.60,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html"
+  },
+  {
+    "Title": "The Year of Magical Thinking",
+    "Price": 43.04,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-year-of-magical-thinking_770/index.html"
+  },
+  {
+    "Title": "The Literature Book (Big Ideas Simply Explained)",
+    "Price": 17.43,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-literature-book-big-ideas-simply-explained_755/index.html"
+  },
+  {
+    "Title": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World\u2019s Most Precious Manuscripts",
+    "Price": 15.77,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html"
+  },
+  {
+    "Title": "Swell: A Year of Waves",
+    "Price": 45.58,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/swell-a-year-of-waves_740/index.html"
+  },
+  {
+    "Title": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+    "Price": 21.95,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html"
+  },
+  {
+    "Title": "Looking for Lovely: Collecting the Moments that Matter",
+    "Price": 29.14,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html"
+  },
+  {
+    "Title": "Let It Out: A Journey Through Journaling",
+    "Price": 26.79,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html"
+  },
+  {
+    "Title": "Hamilton: The Revolution",
+    "Price": 58.79,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/hamilton-the-revolution_699/index.html"
+  },
+  {
+    "Title": "Far \u0026amp; Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",
+    "Price": 15.06,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html"
+  },
+  {
+    "Title": "Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",
+    "Price": 51.75,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html"
+  },
+  {
+    "Title": "Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+    "Price": 37.80,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html"
+  },
+  {
+    "Title": "Brain on Fire: My Month of Madness",
+    "Price": 49.32,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/brain-on-fire-my-month-of-madness_669/index.html"
+  },
+  {
+    "Title": "Abstract City",
+    "Price": 56.37,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/abstract-city_658/index.html"
+  },
+  {
+    "Title": "13 Hours: The Inside Account of What Really Happened In Benghazi",
+    "Price": 27.06,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html"
+  },
+  {
+    "Title": "The Lonely City: Adventures in the Art of Being Alone",
+    "Price": 33.26,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html"
+  },
+  {
+    "Title": "The Diary of a Young Girl",
+    "Price": 59.90,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html"
+  },
+  {
+    "Title": "Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas",
+    "Price": 21.21,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html"
+  },
+  {
+    "Title": "Furiously Happy: A Funny Book About Horrible Things",
+    "Price": 41.46,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/furiously-happy-a-funny-book-about-horrible-things_619/index.html"
+  },
+  {
+    "Title": "The Sleep Revolution: Transforming Your Life, One Night at a Time",
+    "Price": 11.68,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html"
+  },
+  {
+    "Title": "Mother, Can You Not?",
+    "Price": 16.89,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/mother-can-you-not_599/index.html"
+  },
+  {
+    "Title": "A Mother\u0026#39;s Reckoning: Living in the Aftermath of Tragedy",
+    "Price": 19.53,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html"
+  },
+  {
+    "Title": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+    "Price": 24.57,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html"
+  },
+  {
+    "Title": "Chernobyl 01:23:40: The Incredible True Story of the World\u0026#39;s Worst Nuclear Disaster",
+    "Price": 35.92,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html"
+  },
+  {
+    "Title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "Price": 34.06,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html"
+  },
+  {
+    "Title": "Why Not Me?",
+    "Price": 17.76,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/why-not-me_554/index.html"
+  },
+  {
+    "Title": "When Breath Becomes Air",
+    "Price": 39.36,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/when-breath-becomes-air_553/index.html"
+  },
+  {
+    "Title": "The Midnight Assassin: Panic, Scandal, and the Hunt for America\u0026#39;s First Serial Killer",
+    "Price": 28.45,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html"
+  },
+  {
+    "Title": "Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+    "Price": 38.89,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html"
+  },
+  {
+    "Title": "Rising Strong",
+    "Price": 21.82,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/rising-strong_539/index.html"
+  },
+  {
+    "Title": "Man\u0026#39;s Search for Meaning",
+    "Price": 29.48,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/mans-search-for-meaning_533/index.html"
+  },
+  {
+    "Title": "Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent\u0026#39;s Expectations",
+    "Price": 25.06,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html"
+  },
+  {
+    "Title": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+    "Price": 12.55,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html"
+  },
+  {
+    "Title": "I Will Find You",
+    "Price": 44.21,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/i-will-find-you_524/index.html"
+  },
+  {
+    "Title": "Brazen: The Courage to Find the You That\u0026#39;s Been Hiding",
+    "Price": 19.22,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html"
+  },
+  {
+    "Title": "Between the World and Me",
+    "Price": 56.91,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/between-the-world-and-me_513/index.html"
+  },
+  {
+    "Title": "Being Mortal: Medicine and What Matters in the End",
+    "Price": 55.06,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/being-mortal-medicine-and-what-matters-in-the-end_512/index.html"
+  },
+  {
+    "Title": "A Murder Over a Girl: Justice, Gender, Junior High",
+    "Price": 13.20,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/a-murder-over-a-girl-justice-gender-junior-high_511/index.html"
+  },
+  {
+    "Title": "For the Love: Fighting for Grace in a World of Impossible Standards",
+    "Price": 45.13,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html"
+  },
+  {
+    "Title": "Finding God in the Ruins: How God Redeems Pain",
+    "Price": 46.64,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/finding-god-in-the-ruins-how-god-redeems-pain_466/index.html"
+  },
+  {
+    "Title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "Price": 59.45,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html"
+  },
+  {
+    "Title": "In Cold Blood",
+    "Price": 49.98,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/in-cold-blood_432/index.html"
+  },
+  {
+    "Title": "Girl, Interrupted",
+    "Price": 42.14,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/girl-interrupted_429/index.html"
+  },
+  {
+    "Title": "Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis",
+    "Price": 48.67,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html"
+  },
+  {
+    "Title": "Talking to Girls About Duran Duran: One Young Man\u0026#39;s Quest for True Love and a Cooler Haircut",
+    "Price": 25.15,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html"
+  },
+  {
+    "Title": "My Mother Was Nuts",
+    "Price": 31.63,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/my-mother-was-nuts_388/index.html"
+  },
+  {
+    "Title": "Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+    "Price": 32.35,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html"
+  },
+  {
+    "Title": "The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+    "Price": 38.71,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html"
+  },
+  {
+    "Title": "The Gunning of America: Business and the Making of American Gun Culture",
+    "Price": 16.81,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html"
+  },
+  {
+    "Title": "The Geography of Bliss: One Grump\u0026#39;s Search for the Happiest Places in the World",
+    "Price": 28.23,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html"
+  },
+  {
+    "Title": "God Is Not Great: How Religion Poisons Everything",
+    "Price": 27.80,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/god-is-not-great-how-religion-poisons-everything_323/index.html"
+  },
+  {
+    "Title": "We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers\u0026#39; Vision of America",
+    "Price": 31.95,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html"
+  },
+  {
+    "Title": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+    "Price": 50.66,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html"
+  },
+  {
+    "Title": "Unstuffed: Decluttering Your Home, Mind, and Soul",
+    "Price": 58.09,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/unstuffed-decluttering-your-home-mind-and-soul_296/index.html"
+  },
+  {
+    "Title": "Under the Banner of Heaven: A Story of Violent Faith",
+    "Price": 30.00,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html"
+  },
+  {
+    "Title": "Trespassing Across America: One Man\u0026#39;s Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",
+    "Price": 53.51,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html"
+  },
+  {
+    "Title": "The Name of God is Mercy",
+    "Price": 37.25,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-name-of-god-is-mercy_264/index.html"
+  },
+  {
+    "Title": "Stiff: The Curious Lives of Human Cadavers",
+    "Price": 36.74,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/stiff-the-curious-lives-of-human-cadavers_226/index.html"
+  },
+  {
+    "Title": "Spilled Milk: Based on a True Story",
+    "Price": 49.51,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/spilled-milk-based-on-a-true-story_225/index.html"
+  },
+  {
+    "Title": "Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",
+    "Price": 41.67,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html"
+  },
+  {
+    "Title": "Outliers: The Story of Success",
+    "Price": 14.16,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/outliers-the-story-of-success_204/index.html"
+  },
+  {
+    "Title": "Notes from a Small Island (Notes From a Small Island #1)",
+    "Price": 40.17,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/notes-from-a-small-island-notes-from-a-small-island-1_200/index.html"
+  },
+  {
+    "Title": "Night (The Night Trilogy #1)",
+    "Price": 13.51,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/night-the-night-trilogy-1_199/index.html"
+  },
+  {
+    "Title": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+    "Price": 57.83,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html"
+  },
+  {
+    "Title": "Letter to a Christian Nation",
+    "Price": 22.20,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/letter-to-a-christian-nation_186/index.html"
+  },
+  {
+    "Title": "Let\u0026#39;s Pretend This Never Happened: A Mostly True Memoir",
+    "Price": 45.11,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html"
+  },
+  {
+    "Title": "It\u0026#39;s Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond",
+    "Price": 42.38,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html"
+  },
+  {
+    "Title": "Into the Wild",
+    "Price": 56.70,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/into-the-wild_177/index.html"
+  },
+  {
+    "Title": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler\u0026#39;s Berlin",
+    "Price": 28.85,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html"
+  },
+  {
+    "Title": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+    "Price": 28.88,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html"
+  },
+  {
+    "Title": "Gratitude",
+    "Price": 26.66,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/gratitude_163/index.html"
+  },
+  {
+    "Title": "Disrupted: My Misadventure in the Start-Up Bubble",
+    "Price": 15.28,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/disrupted-my-misadventure-in-the-start-up-bubble_148/index.html"
+  },
+  {
+    "Title": "Brave Enough",
+    "Price": 51.32,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/brave-enough_135/index.html"
+  },
+  {
+    "Title": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+    "Price": 27.35,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html"
+  },
+  {
+    "Title": "Blink: The Power of Thinking Without Thinking",
+    "Price": 21.74,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/blink-the-power-of-thinking-without-thinking_132/index.html"
+  },
+  {
+    "Title": "Black Flags: The Rise of ISIS",
+    "Price": 40.87,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/black-flags-the-rise-of-isis_131/index.html"
+  },
+  {
+    "Title": "Are We Smart Enough to Know How Smart Animals Are?",
+    "Price": 56.58,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/are-we-smart-enough-to-know-how-smart-animals-are_121/index.html"
+  },
+  {
+    "Title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+    "Price": 30.48,
+    "Rating": 4,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html"
+  },
+  {
+    "Title": "The Suffragettes (Little Black Classics, #96)",
+    "Price": 11.89,
+    "Rating": 2,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-suffragettes-little-black-classics-96_112/index.html"
+  },
+  {
+    "Title": "Kindle Paperwhite User\u0026#39;s Guide",
+    "Price": 34.00,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/kindle-paperwhite-users-guide_103/index.html"
+  },
+  {
+    "Title": "H is for Hawk",
+    "Price": 57.42,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/h-is-for-hawk_102/index.html"
+  },
+  {
+    "Title": "Travels with Charley: In Search of America",
+    "Price": 57.82,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/travels-with-charley-in-search-of-america_90/index.html"
+  },
+  {
+    "Title": "The Tumor",
+    "Price": 41.56,
+    "Rating": 5,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-tumor_85/index.html"
+  },
+  {
+    "Title": "The End of the Jesus Era (An Investigation #1)",
+    "Price": 14.40,
+    "Rating": 1,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/the-end-of-the-jesus-era-an-investigation-1_64/index.html"
+  },
+  {
+    "Title": "Eat, Pray, Love",
+    "Price": 51.32,
+    "Rating": 3,
+    "Category": "nonfiction",
+    "Url": "https://books.toscrape.com/catalogue/eat-pray-love_16/index.html"
+  },
+  {
+    "Title": "Sharp Objects",
+    "Price": 47.82,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "Title": "In a Dark, Dark Wood",
+    "Price": 19.63,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html"
+  },
+  {
+    "Title": "The Past Never Ends",
+    "Price": 56.50,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html"
+  },
+  {
+    "Title": "A Murder in Time",
+    "Price": 16.64,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html"
+  },
+  {
+    "Title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "Price": 44.10,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html"
+  },
+  {
+    "Title": "The Last Mile (Amos Decker #2)",
+    "Price": 54.21,
+    "Rating": 2,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html"
+  },
+  {
+    "Title": "That Darkness (Gardiner and Renner #1)",
+    "Price": 13.92,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html"
+  },
+  {
+    "Title": "Tastes Like Fear (DI Marnie Rome #3)",
+    "Price": 10.69,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html"
+  },
+  {
+    "Title": "A Time of Torment (Charlie Parker #14)",
+    "Price": 48.35,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html"
+  },
+  {
+    "Title": "A Study in Scarlet (Sherlock Holmes #1)",
+    "Price": 16.73,
+    "Rating": 2,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html"
+  },
+  {
+    "Title": "Poisonous (Max Revere Novels #3)",
+    "Price": 26.80,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html"
+  },
+  {
+    "Title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+    "Price": 54.36,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html"
+  },
+  {
+    "Title": "Most Wanted",
+    "Price": 35.28,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/most-wanted_623/index.html"
+  },
+  {
+    "Title": "Hide Away (Eve Duncan #20)",
+    "Price": 11.84,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html"
+  },
+  {
+    "Title": "Boar Island (Anna Pigeon #19)",
+    "Price": 59.48,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html"
+  },
+  {
+    "Title": "The Widow",
+    "Price": 27.26,
+    "Rating": 2,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-widow_609/index.html"
+  },
+  {
+    "Title": "Playing with Fire",
+    "Price": 13.71,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html"
+  },
+  {
+    "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "Price": 25.37,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html"
+  },
+  {
+    "Title": "The Bachelor Girl\u0026#39;s Guide to Murder (Herringford and Watts Mysteries #1)",
+    "Price": 52.30,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html"
+  },
+  {
+    "Title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "Price": 20.89,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html"
+  },
+  {
+    "Title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+    "Price": 24.80,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html"
+  },
+  {
+    "Title": "In the Woods (Dublin Murder Squad #1)",
+    "Price": 38.38,
+    "Rating": 2,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html"
+  },
+  {
+    "Title": "The Silkworm (Cormoran Strike #2)",
+    "Price": 23.05,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html"
+  },
+  {
+    "Title": "The Exiled",
+    "Price": 43.45,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-exiled_247/index.html"
+  },
+  {
+    "Title": "The Cuckoo\u0026#39;s Calling (Cormoran Strike #1)",
+    "Price": 19.21,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html"
+  },
+  {
+    "Title": "Extreme Prey (Lucas Davenport #26)",
+    "Price": 25.40,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html"
+  },
+  {
+    "Title": "Career of Evil (Cormoran Strike #3)",
+    "Price": 24.72,
+    "Rating": 2,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html"
+  },
+  {
+    "Title": "The No. 1 Ladies\u0026#39; Detective Agency (No. 1 Ladies\u0026#39; Detective Agency #1)",
+    "Price": 57.70,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html"
+  },
+  {
+    "Title": "The Girl You Lost",
+    "Price": 12.29,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html"
+  },
+  {
+    "Title": "The Girl In The Ice (DCI Erika Foster #1)",
+    "Price": 15.85,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html"
+  },
+  {
+    "Title": "Blood Defense (Samantha Brinkman #1)",
+    "Price": 20.30,
+    "Rating": 3,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html"
+  },
+  {
+    "Title": "1st to Die (Women\u0026#39;s Murder Club #1)",
+    "Price": 53.98,
+    "Rating": 1,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html"
+  },
+  {
+    "Title": "Tipping the Velvet",
+    "Price": 53.74,
+    "Rating": 1,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "Title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+    "Price": 29.69,
+    "Rating": 3,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html"
+  },
+  {
+    "Title": "A Flight of Arrows (The Pathfinders #2)",
+    "Price": 55.53,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html"
+  },
+  {
+    "Title": "The House by the Lake",
+    "Price": 36.95,
+    "Rating": 1,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html"
+  },
+  {
+    "Title": "Mrs. Houdini",
+    "Price": 30.25,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/mrs-houdini_821/index.html"
+  },
+  {
+    "Title": "The Marriage of Opposites",
+    "Price": 28.08,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html"
+  },
+  {
+    "Title": "Glory over Everything: Beyond The Kitchen House",
+    "Price": 45.84,
+    "Rating": 3,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html"
+  },
+  {
+    "Title": "Love, Lies and Spies",
+    "Price": 20.55,
+    "Rating": 2,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html"
+  },
+  {
+    "Title": "A Paris Apartment",
+    "Price": 39.01,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html"
+  },
+  {
+    "Title": "Lilac Girls",
+    "Price": 17.28,
+    "Rating": 2,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/lilac-girls_597/index.html"
+  },
+  {
+    "Title": "The Constant Princess (The Tudor Court #1)",
+    "Price": 16.62,
+    "Rating": 3,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html"
+  },
+  {
+    "Title": "The Invention of Wings",
+    "Price": 37.34,
+    "Rating": 1,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html"
+  },
+  {
+    "Title": "World Without End (The Pillars of the Earth #2)",
+    "Price": 32.97,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html"
+  },
+  {
+    "Title": "The Passion of Dolssa",
+    "Price": 28.32,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html"
+  },
+  {
+    "Title": "Girl With a Pearl Earring",
+    "Price": 26.77,
+    "Rating": 1,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html"
+  },
+  {
+    "Title": "Voyager (Outlander #3)",
+    "Price": 21.07,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html"
+  },
+  {
+    "Title": "The Red Tent",
+    "Price": 35.66,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-red-tent_273/index.html"
+  },
+  {
+    "Title": "The Last Painting of Sara de Vos",
+    "Price": 55.55,
+    "Rating": 2,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html"
+  },
+  {
+    "Title": "The Guernsey Literary and Potato Peel Pie Society",
+    "Price": 49.53,
+    "Rating": 1,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html"
+  },
+  {
+    "Title": "Girl in the Blue Coat",
+    "Price": 46.83,
+    "Rating": 2,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html"
+  },
+  {
+    "Title": "Between Shades of Gray",
+    "Price": 20.79,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/between-shades-of-gray_128/index.html"
+  },
+  {
+    "Title": "While You Were Mine",
+    "Price": 41.32,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/while-you-were-mine_97/index.html"
+  },
+  {
+    "Title": "The Secret Healer",
+    "Price": 34.56,
+    "Rating": 3,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-secret-healer_80/index.html"
+  },
+  {
+    "Title": "Starlark",
+    "Price": 25.83,
+    "Rating": 3,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/starlark_56/index.html"
+  },
+  {
+    "Title": "Lost Among the Living",
+    "Price": 27.70,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html"
+  },
+  {
+    "Title": "A Spy\u0026#39;s Devotion (The Regency Spies of London #1)",
+    "Price": 16.97,
+    "Rating": 5,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/a-spys-devotion-the-regency-spies-of-london-1_3/index.html"
   }
 ]
