@@ -4,7 +4,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using UnecontScraping.Application;
 using UnecontScraping.Domain;
-using UnecontScraping.Infrastructure;
+using UnecontScraping.Infrastructure; 
+using UnecontScraping.Presentation;
 
 namespace UnecontScraping.Presentation
 {
@@ -39,7 +40,8 @@ namespace UnecontScraping.Presentation
                 builder.SetMinimumLevel(LogLevel.Information);
             });
 
-            // Injeção de Dependência
+            // Injeção de Dependência dos serviços e implementações
+            services.AddSingleton<ICategoryService, CategoryService>();
             services.AddSingleton<IScrapingService, ScrapingService>();
             services.AddSingleton<IExportService, ExportService>();
             services.AddHttpClient<IApiService, ApiService>();

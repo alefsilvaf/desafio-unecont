@@ -9,29 +9,25 @@ namespace UnecontScraping.Infrastructure
     {
         private readonly ILogger<ScrapingService> _logger;
         private readonly HttpClient _httpClient;
-        
-        // Mapeamento manual dos nomes das categorias para seus IDs.
-        private readonly Dictionary<string, int> _categoryIds = new Dictionary<string, int>
-        {
-            { "travel", 2 },
-            { "mystery", 3 },
-            { "historical-fiction", 4 }
-        };
+        private readonly ICategoryService _categoryService;
 
-        public ScrapingService(ILogger<ScrapingService> logger)
+        public ScrapingService(ILogger<ScrapingService> logger, ICategoryService categoryService)
         {
             _logger = logger;
             _httpClient = new HttpClient();
+            _categoryService = categoryService;
         }
 
         public async Task<List<Book>> ScrapeBooksAsync(ScrapingConfig config)
         {
             var books = new List<Book>();
-            _logger.LogInformation("Iniciando o scraping das categorias: {Categories}", string.Join(", ", config.Categories));
+            var categoryIds = await _categoryService.GetCategoriesAsync();
+            
+            _logger.LogInformation("Iniciando o scraping das categorias configuradas: {Categories}", string.Join(", ", config.Categories));
 
             foreach (var category in config.Categories)
             {
-                if (_categoryIds.TryGetValue(category, out var categoryId))
+                if (categoryIds.TryGetValue(category, out var categoryId))
                 {
                     var url = $"https://books.toscrape.com/catalogue/category/books/{category}_{categoryId}/index.html";
                     _logger.LogInformation("Scraping da categoria '{Category}' iniciado. URL: {Url}", category, url);
@@ -39,7 +35,7 @@ namespace UnecontScraping.Infrastructure
                 }
                 else
                 {
-                    _logger.LogWarning("Categoria '{Category}' não encontrada no mapeamento. Pulando...", category);
+                    _logger.LogWarning("Categoria '{Category}' não encontrada no mapeamento dinâmico. Pulando...", category);
                 }
             }
 
