@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Delivering the Truth (Quaker Midwife Mystery #1)</Title>
+    <Price>20.89</Price>
+    <Rating>4</Rating>
+    <Category>mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Mysterious Affair at Styles (Hercule Poirot #1)</Title>
+    <Price>24.80</Price>
+    <Rating>4</Rating>
+    <Category>mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Marriage of Opposites</Title>
+    <Price>28.08</Price>
+    <Rating>4</Rating>
+    <Category>historical-fiction</Category>
+    <Url>https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Paris Apartment</Title>
+    <Price>39.01</Price>
+    <Rating>4</Rating>
+    <Category>historical-fiction</Category>
+    <Url>https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html</Url>
+  </Book>
+  <Book>
+    <Title>World Without End (The Pillars of the Earth #2)</Title>
+    <Price>32.97</Price>
+    <Rating>4</Rating>
+    <Category>historical-fiction</Category>
+    <Url>https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Lost Among the Living</Title>
+    <Price>27.70</Price>
+    <Rating>4</Rating>
+    <Category>historical-fiction</Category>
+    <Url>https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html</Url>
+  </Book>
+</ArrayOfBook>

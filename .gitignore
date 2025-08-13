@@ -1,0 +1,56 @@
+###########################################
+## Ignorar pastas de build e executáveis ##
+###########################################
+bin/
+obj/
+
+# Arquivos de depuração e executáveis
+*.exe
+*.dll
+*.pdb
+*.suo
+*.sln.docstates
+
+#######################################
+## Ignorar arquivos de pacotes NuGet ##
+#######################################
+# A pasta de pacotes (packages/) não é mais usada em projetos com PackageReference.
+# Caso você encontre um projeto mais antigo que use, a pasta deve ser ignorada.
+# packages/
+
+###################################################
+## Ignorar arquivos e pastas do Visual Studio/IDE ##
+###################################################
+# A pasta .vs/ armazena configurações da solução (Visual Studio 2017 e superiores)
+.vs/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+
+# Arquivos temporários e de cache
+[Dd]ebug/
+[Rr]elease/
+[Tt]emp/
+*.tmp
+*.userprefs
+
+# Arquivos de teste e log
+TestResults/
+TestResult.xml
+*.log
+
+# Arquivos e pastas geradas pelo ReSharper e outros plugins
+_ReSharper.*/
+[Cc]ode[Cc]overage/
+.idea/
+
+################################################
+## Ignorar arquivos de configuração sensíveis ##
+################################################
+# A configuração de desenvolvimento é ignorada para evitar cometer senhas,
+# chaves de API ou outras informações sensíveis.
+# O appsettings.json padrão deve ser mantido.
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json

@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "Price": 20.89,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html"
+  },
+  {
+    "Title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+    "Price": 24.80,
+    "Rating": 4,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html"
+  },
+  {
+    "Title": "The Marriage of Opposites",
+    "Price": 28.08,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html"
+  },
+  {
+    "Title": "A Paris Apartment",
+    "Price": 39.01,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html"
+  },
+  {
+    "Title": "World Without End (The Pillars of the Earth #2)",
+    "Price": 32.97,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html"
+  },
+  {
+    "Title": "Lost Among the Living",
+    "Price": 27.70,
+    "Rating": 4,
+    "Category": "historical-fiction",
+    "Url": "https://books.toscrape.com/catalogue/lost-among-the-living_31/index.html"
+  }
+]
