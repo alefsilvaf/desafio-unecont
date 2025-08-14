@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-16"?>
 <ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Book>
-    <Title>First and First (Five Boroughs #3)</Title>
-    <Price>15.97</Price>
-    <Rating>4</Rating>
+    <Title>Chase Me (Paris Nights #2)</Title>
+    <Price>25.27</Price>
+    <Rating>5</Rating>
     <Category>romance</Category>
-    <Url>https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html</Url>
+    <Url>https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html</Url>
   </Book>
   <Book>
-    <Title>Something More Than This</Title>
-    <Price>16.24</Price>
-    <Rating>4</Rating>
-    <Category>romance</Category>
-    <Url>https://books.toscrape.com/catalogue/something-more-than-this_834/index.html</Url>
+    <Title>No One Here Gets Out Alive</Title>
+    <Price>20.02</Price>
+    <Rating>5</Rating>
+    <Category>music</Category>
+    <Url>https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html</Url>
+  </Book>
+  <Book>
+    <Title>What Happened on Beale Street (Secrets of the South Mysteries #2)</Title>
+    <Price>25.37</Price>
+    <Rating>5</Rating>
+    <Category>mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Silkworm (Cormoran Strike #2)</Title>
+    <Price>23.05</Price>
+    <Rating>5</Rating>
+    <Category>mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html</Url>
   </Book>
 </ArrayOfBook>

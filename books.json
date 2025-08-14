@@ -1,16 +1,30 @@
 [
   {
-    "Title": "First and First (Five Boroughs #3)",
-    "Price": 15.97,
-    "Rating": 4,
+    "Title": "Chase Me (Paris Nights #2)",
+    "Price": 25.27,
+    "Rating": 5,
     "Category": "romance",
-    "Url": "https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html"
+    "Url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
   },
   {
-    "Title": "Something More Than This",
-    "Price": 16.24,
-    "Rating": 4,
-    "Category": "romance",
-    "Url": "https://books.toscrape.com/catalogue/something-more-than-this_834/index.html"
+    "Title": "No One Here Gets Out Alive",
+    "Price": 20.02,
+    "Rating": 5,
+    "Category": "music",
+    "Url": "https://books.toscrape.com/catalogue/no-one-here-gets-out-alive_336/index.html"
+  },
+  {
+    "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "Price": 25.37,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html"
+  },
+  {
+    "Title": "The Silkworm (Cormoran Strike #2)",
+    "Price": 23.05,
+    "Rating": 5,
+    "Category": "mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html"
   }
 ]
