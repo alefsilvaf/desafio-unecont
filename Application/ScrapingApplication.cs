@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 using UnecontScraping.Domain;
-using System.Linq; // Adicionado para IEnumarable
+using System.Linq;
 
 namespace UnecontScraping.Application
 {
@@ -33,23 +33,23 @@ namespace UnecontScraping.Application
 
                 var filteredBooks = allBooks.AsEnumerable();
 
-                // Aplica a filtragem condicional
-                if (config.PriceFilter.MinPrice > 0)
+                // Aplica a filtragem condicional usando .HasValue para checar se o filtro foi fornecido.
+                if (config.PriceFilter?.MinPrice.HasValue == true)
                 {
-                    _logger.LogInformation($"Aplicando filtro de preço mínimo: {config.PriceFilter.MinPrice}");
-                    filteredBooks = filteredBooks.Where(b => b.Price >= config.PriceFilter.MinPrice);
+                    _logger.LogInformation($"Aplicando filtro de preço mínimo: {config.PriceFilter.MinPrice.Value}");
+                    filteredBooks = filteredBooks.Where(b => b.Price >= config.PriceFilter.MinPrice.Value);
                 }
                 
-                if (config.PriceFilter.MaxPrice < decimal.MaxValue)
+                if (config.PriceFilter?.MaxPrice.HasValue == true)
                 {
-                    _logger.LogInformation($"Aplicando filtro de preço máximo: {config.PriceFilter.MaxPrice}");
-                    filteredBooks = filteredBooks.Where(b => b.Price <= config.PriceFilter.MaxPrice);
+                    _logger.LogInformation($"Aplicando filtro de preço máximo: {config.PriceFilter.MaxPrice.Value}");
+                    filteredBooks = filteredBooks.Where(b => b.Price <= config.PriceFilter.MaxPrice.Value);
                 }
 
-                if (config.RatingFilter > 0)
+                if (config.RatingFilter.HasValue)
                 {
-                    _logger.LogInformation($"Aplicando filtro de rating: {config.RatingFilter} estrelas");
-                    filteredBooks = filteredBooks.Where(b => b.Rating == config.RatingFilter);
+                    _logger.LogInformation($"Aplicando filtro de rating: {config.RatingFilter.Value} estrelas");
+                    filteredBooks = filteredBooks.Where(b => b.Rating == config.RatingFilter.Value);
                 }
 
                 var finalBooks = filteredBooks.ToList();

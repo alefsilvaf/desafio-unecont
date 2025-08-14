@@ -59,17 +59,20 @@ namespace UnecontScraping.Presentation
                 ? defaultConfig.Categories
                 : categoriesInput.Split(',').Select(c => c.Trim()).ToArray();
 
-            Console.WriteLine($"Preço Mínimo (padrão: {defaultConfig.PriceFilter.MinPrice}), deixe em branco para não filtrar: ");
+            Console.WriteLine($"Preço Mínimo (padrão: {defaultConfig.PriceFilter?.MinPrice}), deixe em branco para não filtrar: ");
             var minPriceInput = Console.ReadLine();
-            decimal.TryParse(minPriceInput, out var minPrice);
+            decimal.TryParse(minPriceInput, out var minPriceValue);
+            decimal? minPrice = string.IsNullOrEmpty(minPriceInput) ? null : minPriceValue;
             
-            Console.WriteLine($"Preço Máximo (padrão: {defaultConfig.PriceFilter.MaxPrice}), deixe em branco para não filtrar: ");
+            Console.WriteLine($"Preço Máximo (padrão: {defaultConfig.PriceFilter?.MaxPrice}), deixe em branco para não filtrar: ");
             var maxPriceInput = Console.ReadLine();
-            decimal.TryParse(maxPriceInput, out var maxPrice);
+            decimal.TryParse(maxPriceInput, out var maxPriceValue);
+            decimal? maxPrice = string.IsNullOrEmpty(maxPriceInput) ? null : maxPriceValue;
 
             Console.WriteLine($"Número de Estrelas (1-5, padrão: {defaultConfig.RatingFilter}), deixe em branco para não filtrar: ");
             var ratingInput = Console.ReadLine();
-            int.TryParse(ratingInput, out var rating);
+            int.TryParse(ratingInput, out var ratingValue);
+            int? rating = string.IsNullOrEmpty(ratingInput) ? null : ratingValue;
             
             Console.WriteLine("-----------------------------");
 
@@ -78,10 +81,10 @@ namespace UnecontScraping.Presentation
                 Categories = categories,
                 PriceFilter = new PriceFilter
                 {
-                    MinPrice = string.IsNullOrEmpty(minPriceInput) ? 0 : minPrice,
-                    MaxPrice = string.IsNullOrEmpty(maxPriceInput) ? decimal.MaxValue : maxPrice
+                    MinPrice = minPrice,
+                    MaxPrice = maxPrice
                 },
-                RatingFilter = string.IsNullOrEmpty(ratingInput) ? 0 : rating
+                RatingFilter = rating
             };
         }
     }
