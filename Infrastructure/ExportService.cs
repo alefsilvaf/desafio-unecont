@@ -6,19 +6,19 @@ namespace UnecontScraping.Infrastructure
 {
     public class ExportService : IExportService
     {
-        public async Task ExportToJsonAsync(List<Book> books, string filePath)
+        public async Task ExportToJsonAsync<T>(List<T> data, string filePath)
         {
             var options = new JsonSerializerOptions { WriteIndented = true };
-            var jsonString = JsonSerializer.Serialize(books, options);
+            var jsonString = JsonSerializer.Serialize(data, options);
             await File.WriteAllTextAsync(filePath, jsonString);
         }
 
-        public async Task ExportToXmlAsync(List<Book> books, string filePath)
+        public async Task ExportToXmlAsync<T>(List<T> data, string filePath)
         {
-            var serializer = new XmlSerializer(typeof(List<Book>));
+            var serializer = new XmlSerializer(typeof(List<T>));
             using (var writer = new StringWriter())
             {
-                serializer.Serialize(writer, books);
+                serializer.Serialize(writer, data);
                 await File.WriteAllTextAsync(filePath, writer.ToString());
             }
         }
